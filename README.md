@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Pedro Henrique 🖐️
 
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=MoraesPH&show_icons=true&theme=dracula&count_private=true)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHmerlo&show_icons=true&theme=dracula&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoraesPH)](https://github.com/MoraesPH/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHmerlo)](https://github.com/MoraesPH/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
